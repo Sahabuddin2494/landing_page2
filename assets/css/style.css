@@ -50,4 +50,24 @@ border-radius: 25px;
     padding: 10px 30px;
     box-shadow: 0 25px 46.8519px rgba(30,20,10,.193);
 }
+.best_selling_left_down .btn:hover{
+ background-color:blue;
+ color: white;
+}
 /* Best_selling_section_end */
+/* Executive_Night_section_start */
+.Executive_Night_section_start{
+
+}
+.Executive_Night_one{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.Executive_Night_one_img{
+}
+.Executive_Night_one p{
+    line-height: 30px;
+}
+/* Executive_Night_section_end */
