@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;500;600;700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F8F8F8;
+    font-family: Josefin Sans,sans-serif;
+}
+.logo_section_main{
+    text-align: center;
+}
+/* Best_selling_section_start */
+.best_selling_section{
+
+}
+.best_selling_left{
+
+}
+.best_selling_left_up{
+
+}
+.best_selling_left_up .btn{
+background-color: #de5478;
+color: white;
+font-weight: bold;
+padding: 10px 30px;
+border-radius: 25px;
+}
+.best_selling_left_up h2{
+    color:#de5478;
+    font-weight: 600;
+}
+/* up_end */
+.best_selling_left_down{
+
+}
+.best_selling_left_down h4{
+    font-weight: bold;
+}
+.best_selling_left_down h6{
+
+}
+.best_selling_left_down .btn{
+    background-color: #D45173;
+    color: white;
+    font-weight:600;
+    border-radius: 15px;
+    padding: 10px 30px;
+    box-shadow: 0 25px 46.8519px rgba(30,20,10,.193);
+}
+/* Best_selling_section_end */
