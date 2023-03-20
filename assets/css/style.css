@@ -71,3 +71,21 @@ border-radius: 25px;
     line-height: 30px;
 }
 /* Executive_Night_section_end */
+/* .Why_will_you_buy_start */
+.Why_will_you_buy_start{
+ text-align: center;
+}
+.Why_will_you_buy_ttle{
+ text-align: center;
+}
+.Why_will_you_buy_ttle h2{
+    color:#de5478;
+    font-weight: 700;
+}
+.Why_will_you_buy_youtube{
+
+}
+.Why_will_you_buy_btn{
+    
+}
+/* Why_will_you_buy_end */
