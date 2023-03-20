@@ -86,6 +86,26 @@ border-radius: 25px;
 
 }
 .Why_will_you_buy_btn{
-    
+
 }
 /* Why_will_you_buy_end */
+/* .If_these_factors_with_you_start */
+.If_these_factors_with_you{
+
+}
+.If_these_factors_with_you_mid{
+    background-color: #FCEEF1;
+    border-radius: 10px;
+}
+.If_these_factors_with_you_details{
+
+}
+.If_these_factors_with_you_one{
+    background-color: white;
+    border-radius: 14px;
+}
+.If_these_factors_with_you_one h4{
+    line-height: 35px;
+    font-size: 20px;
+}
+/* If_these_factors_with_you_end */
